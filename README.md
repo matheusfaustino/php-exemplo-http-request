@@ -8,6 +8,7 @@ Foi utilizado o PHP e suas funções de manipulação de arquivo a fim de mostra
 
 ###Executando
 
+* Altere a variável url, do código, para uma URL de sua escolha
 * `git clone` no projeto. 
 * Acesse a pasta `php-exemplo-http-request`
 * `php -f index.php` ou pode acessar via localhost também.
