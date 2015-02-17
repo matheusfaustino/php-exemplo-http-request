@@ -4,6 +4,8 @@ require 'http.php';
 
 $url  = '<scheme>://<url>';
 
+if($url == '<scheme>://<url>') die('Não esqueça de alterar a URL'.PHP_EOL);
+
 $classHttp = new Http($url,'GET');
 
 // Se adicionar esse header a página ficará em load pois o arquivo do socket não é fechado
