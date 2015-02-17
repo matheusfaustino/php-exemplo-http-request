@@ -1,7 +1,9 @@
 # Fazendo requests HTTP via PHP
 
 Esse repositório foi criado com o proposito de exemplificar como funciona uma requisição HTTP.
+
 Faz parte do material exemplificativo do site http://programadorquesou.com.br
+
 Foi utilizado o PHP e suas funções de manipulação de arquivo a fim de mostrar o envio e a leitura do arquivo de socket.
 
 ###Executando
@@ -12,4 +14,4 @@ Foi utilizado o PHP e suas funções de manipulação de arquivo a fim de mostra
 
 ###Sugestões
 
-Envie suas sugestões para matheuspfaustino (at) gmail (dot) com
+Envie suas sugestões para: matheuspfaustino (at) gmail (dot) com
